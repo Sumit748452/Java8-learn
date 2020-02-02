@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5114513f-240d-4b62-8175-1fc750f336bb" name="Default Changelist" comment="" />
+    <list default="true" id="5114513f-240d-4b62-8175-1fc750f336bb" name="Default Changelist" comment="2feb2020">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ForLoopStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/te.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ForLoopStars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DateExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Base64Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Base64Example.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,7 +38,8 @@
   </component>
   <component name="ProjectId" id="1VezSN1IvMsnsqRhNM812ylbvyP" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/IOT/thingsboard" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -43,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Base64Example">
+  <component name="RunManager" selected="Application.ForLoopStars">
     <configuration name="Base64Example" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Base64Example" />
       <module name="Java8CodeEx" />
@@ -51,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DateExample" />
+    <configuration name="ForLoopStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopStars" />
       <module name="Java8CodeEx" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,6 +87,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Java8CodeEx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringJoin" />
       <module name="Java8CodeEx" />
@@ -79,20 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="optionalEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="optionalEx" />
-      <module name="Java8CodeEx" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoopStars" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Java8DateCompareOp" />
         <item itemvalue="Application.StringJoin" />
         <item itemvalue="Application.MiscExample" />
-        <item itemvalue="Application.DateExample" />
-        <item itemvalue="Application.optionalEx" />
       </list>
     </recent_temporary>
   </component>
@@ -108,5 +123,22 @@
       <updated>1577628348184</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2feb2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="2feb2020" />
   </component>
 </project>

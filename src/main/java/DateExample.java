@@ -6,6 +6,7 @@ public class DateExample {
     public static void main(String[] args) {
 
 
+
         LocalDate lDate = LocalDate.now();
         lDate.format(DateTimeFormatter.ISO_DATE);
         System.out.println(lDate.format(DateTimeFormatter.ofPattern("dd-MMM-yy")));
@@ -15,6 +16,9 @@ public class DateExample {
         System.out.println(lDate.getDayOfWeek());
         System.out.println(lDate.getDayOfMonth());
         System.out.println(lDate.getEra());
+        System.out.println(lDate.getDayOfWeek().toString());
+        
+
         System.out.println(lDate.getDayOfYear());
         System.out.println(lDate.getMonth());
         System.out.println(lDate.getMonthValue());
