@@ -1,4 +1,4 @@
-import org.junit.Test;
+import org.junit.*;
 
 public class te {
 
@@ -6,7 +6,8 @@ public class te {
     public void testMe()
     {
         Base64Example ext=new Base64Example();
-
+       //assert equals(ext.getClass(),;
+        //dsfsdsfds
 
     }
 
