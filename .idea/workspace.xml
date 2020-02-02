@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5114513f-240d-4b62-8175-1fc750f336bb" name="Default Changelist" comment="2feb2020">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForLoopStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/te.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ForLoopStars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DateExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Base64Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Base64Example.class" afterDir="false" />
-    </list>
+    <list default="true" id="5114513f-240d-4b62-8175-1fc750f336bb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +29,9 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -122,6 +114,14 @@
       <option name="presentableId" value="Default" />
       <updated>1577628348184</updated>
     </task>
+    <task id="LOCAL-00001" summary="2feb2020">
+      <created>1580646030558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580646030558</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
